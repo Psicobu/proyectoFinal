@@ -1,0 +1,19 @@
+// esto es un comentario y es propio de sass
+
+/* comentario que se ve en sass y css */
+
+//primer poder de sass - anidacion o nesting
+
+@import "base/listas";
+@import "components/header";
+@import "components/main";
+@import "components/footer";
+@import "base/maps";
+@import "base/extends";
+@import "components/mixin.scss";
+
+// imports de mains de otros html
+@import "components/servicios";
+@import "components/nosotros";
+@import "components/mantenimiento";
+@import "base/mediaQueries";
