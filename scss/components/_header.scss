@@ -29,11 +29,12 @@ header{
         background-color: rgba(255, 255, 255, 0.863);
         .logo {
             width: 10%;
+            height: 10%;
             padding: 10px;
         }
         h1 {
             color: #4F9532;
-            padding: 20px 70px 5px 0px;
+            padding: 20px 20px 5px 0px;
             text-align: map-get($map:$textStyles , $key:textCenter );
             font-size: 46px;
             font-family: 'Roboto', sans-serif;

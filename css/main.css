@@ -22,10 +22,11 @@ header {
     background-color: rgba(255, 255, 255, 0.863); }
     header .encabezado .logo {
       width: 10%;
+      height: 10%;
       padding: 10px; }
     header .encabezado h1 {
       color: #4F9532;
-      padding: 20px 70px 5px 0px;
+      padding: 20px 20px 5px 0px;
       text-align: center;
       font-size: 46px;
       font-family: 'Roboto', sans-serif; }
@@ -107,7 +108,8 @@ p {
   padding: 50px 50px 5px 50px; }
 
 img {
-  width: 60%; }
+  width: 60%;
+  height: 60%; }
 
 /*Footer Flex*/
 footer {
@@ -130,6 +132,7 @@ footer {
     align-items: center; }
     footer .socialMedia .redSocial {
       width: 25px;
+      height: 25px;
       margin: 0px 5px; }
 
 /* extends */
