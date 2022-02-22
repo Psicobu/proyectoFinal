@@ -15,11 +15,6 @@
         margin-top: 30px;
     }
 
-    iframe {
-        grid-area: video;
-        @extend %bordes;
-    }
-
     .imagen1 {
         @include areaGridNosotros(img1, center);
     }

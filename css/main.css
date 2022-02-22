@@ -74,7 +74,7 @@ header {
 
 /*Grid en todo el main*/
 /* extends */
-.mainInicio iframe, .comisionDirectiva .imgComision {
+.comisionDirectiva .imgComision {
   border: 3px solid black; }
 
 .mainInicio {
@@ -90,8 +90,6 @@ header {
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
     margin-top: 30px; }
-  .mainInicio iframe {
-    grid-area: video; }
   .mainInicio .imagen1 {
     grid-area: img1;
     text-align: center; }
@@ -136,7 +134,7 @@ footer {
       margin: 0px 5px; }
 
 /* extends */
-.mainInicio iframe, .comisionDirectiva .imgComision {
+.comisionDirectiva .imgComision {
   border: 3px solid black; }
 
 /* Servicios */
@@ -156,7 +154,7 @@ footer {
 
 /*Pagina Nosotros*/
 /* extends */
-.mainInicio iframe, .comisionDirectiva .imgComision {
+.comisionDirectiva .imgComision {
   border: 3px solid black; }
 
 .parrafoNosotros p {
