@@ -275,11 +275,12 @@ footer {
   .serviciosExternos div {
     width: 100%; } }
 
-.bodyContacto {
-  background-image: url(https://img.freepik.com/foto-gratis/placa-negra-sabrosas-galletas-colocadas-sobre-fondo-piedra_114579-74744.jpg?t=st=1645315712~exp=1645316312~hmac=0534d9a98c1b964b387cb646293f5cdcf16b47292e29793e074e36960c1f2c4b&w=996); }
-
 label {
   font-family: 'Roboto', sans-serif;
   text-align: justify;
-  font-size: 20px;
-  color: white; }
+  font-size: 20px; }
+
+.btn-primary {
+  background: black; }
+  .btn-primary:hover {
+    background-color: #bb8300; }
