@@ -246,7 +246,7 @@ label {
   text-align: justify;
   font-size: 20px; }
 
-.btn-primary {
+.btnEnviar {
   background-color: black; }
-  .btn-primary:hover {
+  .btnEnviar:hover {
     background-color: #bb8300; }
