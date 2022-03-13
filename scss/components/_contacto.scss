@@ -7,7 +7,7 @@ label {
 }
  
 .btn-primary {
-    background: black;
+    background-color: black;
     &:hover {
         background-color: nth($colores, 6);
     }
